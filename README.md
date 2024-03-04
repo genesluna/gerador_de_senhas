@@ -37,3 +37,7 @@ git clone https://github.com/genesluna/gerador_de_senhas.git
 ```shell
 python main.py --tamanho 12 --especiais --maiusculas --minusculas --numeros
 ```
+
+## Link para o grupo de dúvidas no WhatsApp:
+
+[![Link para o grupo de dúvidas no WhatsApp](https://res.cloudinary.com/dxylve8nt/image/upload/v1709516187/DSxOAUB0raA150_r9qyhw.png)](https://chat.whatsapp.com/Fbyekep2l9xG1Bpg9qZlCy)
